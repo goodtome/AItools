@@ -15,3 +15,6 @@ http://175.178.88.119/#/ChatHome
 3、不能保存以前的聊天内容，速度比较慢，次数不限制
 
 https://www.aiai.zone/#/chat/1002
+
+4、集合类型的网站，包含多个免费的AI工具
+https://17yongai.com/?ref=producthunt
