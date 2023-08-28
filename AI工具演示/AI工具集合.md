@@ -1,6 +1,8 @@
 AI工具合集
 【上图中】网站汇总
-📝AI文本
+
+### 📝AI文本
+
 ChatGPT：https://chat.openai.com/
 NotionAI：https://www.notion.so/product/ai
 A.I. Data Sidekick：AI工具编写 SQL、文档等的速度提高10倍
@@ -19,7 +21,8 @@ Outplay：https://outplayhq.com/
 CoWriter：AI辅助写作
 https://cowriter.org/login
 
-🎨AI绘画
+### 🎨AI绘画
+
 Midjourney：AI绘画神器
 网站：https://www.midjourney.com/
 教程：https://www.uisdc.com/midjourney
@@ -46,7 +49,8 @@ https://phygital.plus/
 Beautiful.ai：AI生成PPT
 https://www.beautiful.ai/
 
-🎶AI音频
+### 🎶AI音频
+
 Brain.fm：专注、放松、冥想和睡眠，聆听为您的大脑量身打造的音乐
 https://www.brain.fm/
 Soundraw：人工智障生成音乐
@@ -71,7 +75,8 @@ https://boomy.com/
 Mubert：人工智障生成音乐
 https://mubert.com/
 
-🎞AI视频
+### 🎞AI视频
+
 Runway： AI 魔法工具
 https://runwayml.com/
 Cascadeur：人工智障辅助关键帧动画软件
